@@ -26,4 +26,4 @@ Video Upload
 
 ## Development Status
 
-Day 1 - Project Setup
+Project Setup done
