@@ -34,3 +34,12 @@ frontend/build/
 # OS
 .DS_Store
 Thumbs.db
+
+## Development Setup
+
+This project is developed using a feature-branch workflow.
+
+Branches:
+- main - stable production branch
+- develop - integration branch
+- feature/* - feature development branches
